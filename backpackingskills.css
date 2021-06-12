@@ -1,0 +1,29 @@
+body {background-color: #03611c;
+
+}
+
+li {list-style-type: none;
+    display: inline;
+}
+
+.rightmargin {max-width: 20%;
+    height: auto;
+    margin-right: 4%;
+    float: left;
+    border-radius: 25px;
+}
+
+.leftmargin {max-width: 20%;
+    height:auto;
+    margin-left: 4%;
+    float: right;
+    border-radius: 25px;
+}
+
+#outer-wrapper {text-align: center;
+    margin-top: 4%;
+    background-color: #f2d9b3;
+    margin-left: 4%;
+    margin-right: 4%;
+    border-radius: 25px;
+}

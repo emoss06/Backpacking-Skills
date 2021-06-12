@@ -1,0 +1,43 @@
+body {background-color: #03611c;
+
+}
+
+ul {list-style-type: none;}
+
+#i {display: inline;}
+
+ol {text-align: left;}
+
+#outer-wrapper {text-align: center;
+    margin-top: 4%;
+    background-color: #f2d9b3;
+    margin-left: 4%;
+    margin-right: 4%;
+    border-radius: 25px;
+}
+
+.rightmargin {max-width: 20%;
+    height: auto;
+    margin-right: 4%;
+    margin-bottom: 4%;
+    float: left;
+}
+
+.leftmargin {max-width: 20%;
+    height:auto;
+    margin-left: 4%;
+    margin-bottom: 4%;
+    float: right;
+}
+
+.smallright {max-width: 15%;
+    height: auto;
+    margin-right: 4%;
+    margin-bottom: 4%;
+    float: left;
+}
+
+#content {margin-left: 4%;
+    margin-right: 4%;
+    padding-bottom: 2%;
+}
